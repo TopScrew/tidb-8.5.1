@@ -16,7 +16,7 @@
     "bignumber.js": "^9.0.0",
     "filesize": "^6.1.0",
     "json-bigint": "^1.0.0",
-    "react": "^17.0.1",
+    "react": "^19.0.0",
     "react-dom": "^17.0.1",
     "react-router": "^6.26.2",
     "react-router-dom": "^6.26.2"
